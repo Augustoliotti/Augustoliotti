@@ -18,12 +18,11 @@
 ---
 
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Augustoliotti&show_icons=true&theme=tokyonight&count_private=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Augustoliotti&layout=compact&theme=tokyonight" />
-</p>
+### 📊 GitHub Stats
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Augustoliotti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Augustoliotti&layout=compact&theme=tokyonight" />
+</div>
 
 ---
 
